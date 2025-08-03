@@ -1,4 +1,7 @@
 # Eleanor
 Modern GUI for Zapret (bol-van), written in native WINUI3
 
+### PROBABLY WONT WORK CUZ I DONT PROPERY WRITE CONFIG FOR ZAPRET 
+
+
 ## README WILL BE IN THE FUTURE, AS WELL AS SOURCE CODE
