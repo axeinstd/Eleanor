@@ -1,0 +1,355 @@
+01.06.2025 13:37:23: Launched 
+01.06.2025 13:37:23: Killed Zaprets; 
+01.06.2025 13:37:23: OnLaunched Succes - 
+01.06.2025 13:37:55: Launched 
+01.06.2025 13:37:55: Killed Zaprets; 
+01.06.2025 13:37:56: OnLaunched Succes - 
+01.06.2025 13:39:17: Launched 
+01.06.2025 13:39:17: Killed Zaprets; 
+01.06.2025 13:39:17: OnLaunched Succes - 
+01.06.2025 13:40:08: Launched 
+01.06.2025 13:40:08: Killed Zaprets; 
+01.06.2025 13:40:09: OnLaunched Succes - 
+01.06.2025 13:41:32: Launched 
+01.06.2025 13:41:32: Killed Zaprets; 
+01.06.2025 13:41:33: OnLaunched Succes - 
+01.06.2025 13:45:47: Launched 
+01.06.2025 13:45:47: Killed Zaprets; 
+01.06.2025 13:45:47: Error in OnLaunched - System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Assets\Square44x44Logo.scale-100.png'.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.Drawing.Icon..ctor(String fileName, Int32 width, Int32 height)
+   at System.Drawing.Icon..ctor(String fileName)
+   at Eleanor.MainWindow..ctor(Process& process) in C:\Users\Egor\source\repos\Eleanor\Eleanor\MainWindow.xaml.cs:line 57
+   at Eleanor.App.OnLaunched(LaunchActivatedEventArgs args) in C:\Users\Egor\source\repos\Eleanor\Eleanor\App.xaml.cs:line 51
+01.06.2025 13:46:56: Launched 
+01.06.2025 13:46:56: Killed Zaprets; 
+01.06.2025 13:46:56: Error in OnLaunched - System.IO.FileNotFoundException: Could not find file 'C:\Users\Egor\source\repos\Eleanor\Eleanor\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\Assets\Square44x44Logo.scale-100.png'.
+File name: 'C:\Users\Egor\source\repos\Eleanor\Eleanor\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\Assets\Square44x44Logo.scale-100.png'
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.Drawing.Icon..ctor(String fileName, Int32 width, Int32 height)
+   at System.Drawing.Icon..ctor(String fileName)
+   at Eleanor.MainWindow..ctor(Process& process) in C:\Users\Egor\source\repos\Eleanor\Eleanor\MainWindow.xaml.cs:line 57
+   at Eleanor.App.OnLaunched(LaunchActivatedEventArgs args) in C:\Users\Egor\source\repos\Eleanor\Eleanor\App.xaml.cs:line 50
+01.06.2025 13:48:05: Launched 
+01.06.2025 13:48:05: Killed Zaprets; 
+01.06.2025 13:48:05: Error in OnLaunched - System.ArgumentException: Argument 'picture' must be a picture that can be used as a Icon.
+   at System.Drawing.Icon.Initialize(Int32 width, Int32 height)
+   at System.Drawing.Icon..ctor(String fileName, Int32 width, Int32 height)
+   at System.Drawing.Icon..ctor(String fileName)
+   at Eleanor.MainWindow..ctor(Process& process) in C:\Users\Egor\source\repos\Eleanor\Eleanor\MainWindow.xaml.cs:line 57
+   at Eleanor.App.OnLaunched(LaunchActivatedEventArgs args) in C:\Users\Egor\source\repos\Eleanor\Eleanor\App.xaml.cs:line 50
+01.06.2025 13:49:39: Launched 
+01.06.2025 13:49:39: Killed Zaprets; 
+01.06.2025 13:49:39: OnLaunched Succes - 
+01.06.2025 13:51:36: Launched 
+01.06.2025 13:51:36: Killed Zaprets; 
+01.06.2025 13:51:37: OnLaunched Succes - 
+01.06.2025 14:03:18: Launched 
+01.06.2025 14:03:18: Killed Zaprets; 
+01.06.2025 14:03:18: OnLaunched Succes - 
+01.06.2025 14:03:47: Launched 
+01.06.2025 14:03:47: Killed Zaprets; 
+01.06.2025 14:03:48: OnLaunched Succes - 
+01.06.2025 14:05:42: Launched 
+01.06.2025 14:05:42: Killed Zaprets; 
+01.06.2025 14:05:42: OnLaunched Succes - 
+01.06.2025 14:09:20: Launched 
+01.06.2025 14:09:20: Killed Zaprets; 
+01.06.2025 14:09:20: OnLaunched Succes - 
+01.06.2025 14:10:24: Launched 
+01.06.2025 14:10:24: Killed Zaprets; 
+01.06.2025 14:10:25: OnLaunched Succes - 
+01.06.2025 14:13:00: Launched 
+01.06.2025 14:13:00: Killed Zaprets; 
+01.06.2025 14:13:00: OnLaunched Succes - 
+01.06.2025 14:15:49: Launched 
+01.06.2025 14:15:49: Killed Zaprets; 
+01.06.2025 14:15:50: OnLaunched Succes - 
+01.06.2025 14:16:27: Launched 
+01.06.2025 14:16:27: Killed Zaprets; 
+01.06.2025 14:16:27: OnLaunched Succes - 
+01.06.2025 14:17:55: Launched 
+01.06.2025 14:17:55: Killed Zaprets; 
+01.06.2025 14:17:55: OnLaunched Succes - 
+01.06.2025 14:18:23: Launched 
+01.06.2025 14:18:23: Killed Zaprets; 
+01.06.2025 14:18:24: OnLaunched Succes - 
+01.06.2025 14:24:58: Launched 
+01.06.2025 14:24:58: Killed Zaprets; 
+01.06.2025 14:24:58: OnLaunched Succes - 
+01.06.2025 14:25:25: Launched 
+01.06.2025 14:25:25: Killed Zaprets; 
+01.06.2025 14:25:25: OnLaunched Succes - 
+01.06.2025 14:28:43: Launched 
+01.06.2025 14:28:43: Killed Zaprets; 
+01.06.2025 14:28:43: OnLaunched Succes - 
+01.06.2025 14:30:41: Launched 
+01.06.2025 14:30:41: Killed Zaprets; 
+01.06.2025 14:30:41: OnLaunched Succes - 
+01.06.2025 14:31:30: Launched 
+01.06.2025 14:31:30: Killed Zaprets; 
+01.06.2025 14:31:31: OnLaunched Succes - 
+01.06.2025 14:32:56: Launched 
+01.06.2025 14:32:56: Killed Zaprets; 
+01.06.2025 14:32:56: OnLaunched Succes - 
+01.06.2025 14:35:59: Launched 
+01.06.2025 14:36:00: Killed Zaprets; 
+01.06.2025 14:36:00: OnLaunched Succes - 
+01.06.2025 14:36:32: Launched 
+01.06.2025 14:36:32: Killed Zaprets; 
+01.06.2025 14:36:32: OnLaunched Succes - 
+01.06.2025 14:36:49: Launched 
+01.06.2025 14:36:49: Killed Zaprets; 
+01.06.2025 14:36:50: OnLaunched Succes - 
+01.06.2025 14:37:06: Launched 
+01.06.2025 14:37:06: Killed Zaprets; 
+01.06.2025 14:37:06: OnLaunched Succes - 
+01.06.2025 16:41:07: Launched 
+01.06.2025 16:41:07: Killed Zaprets; 
+01.06.2025 16:41:07: OnLaunched Succes - 
+01.06.2025 16:45:25: Launched 
+01.06.2025 16:45:25: Killed Zaprets; 
+01.06.2025 16:45:25: OnLaunched Succes - 
+01.06.2025 16:48:27: Launched 
+01.06.2025 16:48:27: Killed Zaprets; 
+01.06.2025 16:48:28: OnLaunched Succes - 
+01.06.2025 16:49:28: Launched 
+01.06.2025 16:49:28: Killed Zaprets; 
+01.06.2025 16:49:29: OnLaunched Succes - 
+01.06.2025 16:49:54: Launched 
+01.06.2025 16:49:54: Killed Zaprets; 
+01.06.2025 16:49:54: OnLaunched Succes - 
+01.06.2025 16:50:23: Launched 
+01.06.2025 16:50:24: Killed Zaprets; 
+01.06.2025 16:50:24: OnLaunched Succes - 
+01.06.2025 16:50:39: Launched 
+01.06.2025 16:50:39: Killed Zaprets; 
+01.06.2025 16:50:39: OnLaunched Succes - 
+01.06.2025 16:51:33: Launched 
+01.06.2025 16:51:33: Killed Zaprets; 
+01.06.2025 16:51:33: OnLaunched Succes - 
+01.06.2025 16:52:36: Launched 
+01.06.2025 16:52:36: Killed Zaprets; 
+01.06.2025 16:52:36: OnLaunched Succes - 
+01.06.2025 16:53:03: Launched 
+01.06.2025 16:53:03: Killed Zaprets; 
+01.06.2025 16:53:04: OnLaunched Succes - 
+01.06.2025 16:59:00: Launched 
+01.06.2025 16:59:00: Killed Zaprets; 
+01.06.2025 16:59:00: OnLaunched Succes - 
+01.06.2025 16:59:24: Launched 
+01.06.2025 16:59:24: Killed Zaprets; 
+01.06.2025 16:59:24: OnLaunched Succes - 
+01.06.2025 16:59:47: Launched 
+01.06.2025 16:59:47: Killed Zaprets; 
+01.06.2025 16:59:47: OnLaunched Succes - 
+01.06.2025 17:00:28: Launched 
+01.06.2025 17:00:28: Killed Zaprets; 
+01.06.2025 17:00:28: OnLaunched Succes - 
+01.06.2025 17:01:06: Launched 
+01.06.2025 17:01:06: Killed Zaprets; 
+01.06.2025 17:01:06: OnLaunched Succes - 
+01.06.2025 17:02:11: Launched 
+01.06.2025 17:02:12: Killed Zaprets; 
+01.06.2025 17:02:12: OnLaunched Succes - 
+01.06.2025 17:04:05: Launched 
+01.06.2025 17:04:05: Killed Zaprets; 
+01.06.2025 17:04:05: OnLaunched Succes - 
+01.06.2025 17:17:28: Launched 
+01.06.2025 17:17:28: Killed Zaprets; 
+01.06.2025 17:17:28: OnLaunched Succes - 
+01.06.2025 17:18:21: Launched 
+01.06.2025 17:18:21: Killed Zaprets; 
+01.06.2025 17:18:21: OnLaunched Succes - 
+01.06.2025 17:18:37: Launched 
+01.06.2025 17:18:37: Killed Zaprets; 
+01.06.2025 17:18:37: OnLaunched Succes - 
+01.06.2025 17:18:58: Launched 
+01.06.2025 17:18:58: Killed Zaprets; 
+01.06.2025 17:18:58: OnLaunched Succes - 
+01.06.2025 17:19:06: Launched 
+01.06.2025 17:19:06: Killed Zaprets; 
+01.06.2025 17:19:06: OnLaunched Succes - 
+01.06.2025 17:25:50: Launched 
+01.06.2025 17:25:50: Killed Zaprets; 
+01.06.2025 17:25:51: OnLaunched Succes - 
+01.06.2025 17:26:12: Launched 
+01.06.2025 17:26:12: Killed Zaprets; 
+01.06.2025 17:26:12: OnLaunched Succes - 
+01.06.2025 17:27:36: Launched 
+01.06.2025 17:27:36: Killed Zaprets; 
+01.06.2025 17:27:36: OnLaunched Succes - 
+01.06.2025 17:27:59: Launched 
+01.06.2025 17:27:59: Killed Zaprets; 
+01.06.2025 17:27:59: OnLaunched Succes - 
+01.06.2025 17:28:41: Launched 
+01.06.2025 17:28:41: Killed Zaprets; 
+01.06.2025 17:28:42: OnLaunched Succes - 
+01.06.2025 17:29:02: Launched 
+01.06.2025 17:29:02: Killed Zaprets; 
+01.06.2025 17:29:02: OnLaunched Succes - 
+01.06.2025 17:29:33: Launched 
+01.06.2025 17:29:33: Killed Zaprets; 
+01.06.2025 17:29:33: OnLaunched Succes - 
+01.06.2025 17:30:03: Launched 
+01.06.2025 17:30:03: Killed Zaprets; 
+01.06.2025 17:30:03: OnLaunched Succes - 
+01.06.2025 17:30:36: Launched 
+01.06.2025 17:30:37: Killed Zaprets; 
+01.06.2025 17:30:37: OnLaunched Succes - 
+01.06.2025 17:30:53: Launched 
+01.06.2025 17:30:53: Killed Zaprets; 
+01.06.2025 17:30:54: OnLaunched Succes - 
+01.06.2025 17:31:10: Launched 
+01.06.2025 17:31:10: Killed Zaprets; 
+01.06.2025 17:31:10: OnLaunched Succes - 
+01.06.2025 17:32:10: Launched 
+01.06.2025 17:32:10: Killed Zaprets; 
+01.06.2025 17:32:10: OnLaunched Succes - 
+01.06.2025 17:32:36: Launched 
+01.06.2025 17:32:36: Killed Zaprets; 
+01.06.2025 17:32:36: OnLaunched Succes - 
+01.06.2025 17:33:35: Launched 
+01.06.2025 17:33:35: Killed Zaprets; 
+01.06.2025 17:33:35: OnLaunched Succes - 
+01.06.2025 17:33:57: Launched 
+01.06.2025 17:33:57: Killed Zaprets; 
+01.06.2025 17:33:57: OnLaunched Succes - 
+01.06.2025 17:34:24: Launched 
+01.06.2025 17:34:24: Killed Zaprets; 
+01.06.2025 17:34:24: OnLaunched Succes - 
+01.06.2025 17:39:24: Launched 
+01.06.2025 17:39:24: Killed Zaprets; 
+01.06.2025 17:39:24: OnLaunched Succes - 
+01.06.2025 17:40:36: Launched 
+01.06.2025 17:40:36: Killed Zaprets; 
+01.06.2025 17:40:37: OnLaunched Succes - 
+01.06.2025 17:41:28: Launched 
+01.06.2025 17:41:28: Killed Zaprets; 
+01.06.2025 17:41:29: OnLaunched Succes - 
+01.06.2025 17:42:38: Launched 
+01.06.2025 17:42:38: Killed Zaprets; 
+01.06.2025 17:42:39: OnLaunched Succes - 
+01.06.2025 18:12:36: Launched 
+01.06.2025 18:12:36: Killed Zaprets; 
+01.06.2025 18:12:37: OnLaunched Succes - 
+01.06.2025 18:13:07: Launched 
+01.06.2025 18:13:07: Killed Zaprets; 
+01.06.2025 18:13:07: OnLaunched Succes - 
+01.06.2025 18:13:14: Launched 
+01.06.2025 18:13:14: Killed Zaprets; 
+01.06.2025 18:13:14: OnLaunched Succes - 
+01.06.2025 18:18:46: Launched 
+01.06.2025 18:18:47: Killed Zaprets; 
+01.06.2025 18:18:47: OnLaunched Succes - 
+01.06.2025 18:19:28: Launched 
+01.06.2025 18:19:28: Killed Zaprets; 
+01.06.2025 18:19:28: OnLaunched Succes - 
+01.06.2025 18:29:01: Launched 
+01.06.2025 18:29:01: Killed Zaprets; 
+01.06.2025 18:29:01: OnLaunched Succes - 
+01.06.2025 18:33:07: Launched 
+01.06.2025 18:33:08: Killed Zaprets; 
+01.06.2025 18:33:08: OnLaunched Succes - 
+01.06.2025 19:45:57: Launched 
+01.06.2025 19:45:57: Killed Zaprets; 
+01.06.2025 19:45:57: OnLaunched Succes - 
+05.08.2025 13:47:42: Launched 
+05.08.2025 13:47:42: Killed Zaprets; 
+05.08.2025 13:47:42: OnLaunched Succes - 
+05.08.2025 13:48:04: Launched 
+05.08.2025 13:48:04: Killed Zaprets; 
+05.08.2025 13:48:05: OnLaunched Succes - 
+05.08.2025 13:49:47: Launched 
+05.08.2025 13:49:47: Killed Zaprets; 
+05.08.2025 13:49:48: OnLaunched Succes - 
+05.08.2025 13:50:26: Launched 
+05.08.2025 13:50:26: Killed Zaprets; 
+05.08.2025 13:50:27: OnLaunched Succes - 
+05.08.2025 13:51:25: Launched 
+05.08.2025 13:51:25: Killed Zaprets; 
+05.08.2025 13:51:25: OnLaunched Succes - 
+05.08.2025 13:52:15: Launched 
+05.08.2025 13:52:15: Killed Zaprets; 
+05.08.2025 13:52:16: OnLaunched Succes - 
+05.08.2025 13:53:01: Launched 
+05.08.2025 13:53:01: Killed: winws 
+05.08.2025 13:53:01: Killed Zaprets; 
+05.08.2025 13:53:02: OnLaunched Succes - 
+05.08.2025 13:53:28: Launched 
+05.08.2025 13:53:28: Killed Zaprets; 
+05.08.2025 13:53:28: OnLaunched Succes - 
+05.08.2025 13:56:12: Launched 
+05.08.2025 13:56:12: Killed Zaprets; 
+05.08.2025 13:56:12: OnLaunched Succes - 
+05.08.2025 13:56:37: Launched 
+05.08.2025 13:56:37: Killed Zaprets; 
+05.08.2025 13:56:38: OnLaunched Succes - 
+05.08.2025 13:57:01: Launched 
+05.08.2025 13:57:01: Killed Zaprets; 
+05.08.2025 13:57:02: OnLaunched Succes - 
+05.08.2025 13:57:21: Launched 
+05.08.2025 13:57:21: Killed Zaprets; 
+05.08.2025 13:57:21: OnLaunched Succes - 
+05.08.2025 13:58:54: Launched 
+05.08.2025 13:58:54: Killed Zaprets; 
+05.08.2025 13:58:55: OnLaunched Succes - 
+05.08.2025 14:00:02: Launched 
+05.08.2025 14:00:02: Killed Zaprets; 
+05.08.2025 14:00:02: OnLaunched Succes - 
+05.08.2025 14:00:11: Launched 
+05.08.2025 14:00:11: Killed Zaprets; 
+05.08.2025 14:00:11: OnLaunched Succes - 
+05.08.2025 14:00:48: Launched 
+05.08.2025 14:00:48: Killed Zaprets; 
+05.08.2025 14:00:48: OnLaunched Succes - 
+05.08.2025 14:01:08: Launched 
+05.08.2025 14:01:08: Killed Zaprets; 
+05.08.2025 14:01:09: OnLaunched Succes - 
+05.08.2025 14:01:19: Launched 
+05.08.2025 14:01:19: Killed Zaprets; 
+05.08.2025 14:01:19: OnLaunched Succes - 
+05.08.2025 14:01:40: Launched 
+05.08.2025 14:01:40: Killed Zaprets; 
+05.08.2025 14:01:41: OnLaunched Succes - 
+05.08.2025 14:02:38: Launched 
+05.08.2025 14:02:38: Killed Zaprets; 
+05.08.2025 14:02:39: OnLaunched Succes - 
+05.08.2025 14:05:52: Launched 
+05.08.2025 14:05:52: Killed Zaprets; 
+05.08.2025 14:05:53: OnLaunched Succes - 
+05.08.2025 14:06:40: Launched 
+05.08.2025 14:06:40: Killed Zaprets; 
+05.08.2025 14:06:40: OnLaunched Succes - 
+05.08.2025 14:33:36: Launched 
+05.08.2025 14:33:36: Killed Zaprets; 
+05.08.2025 14:33:37: OnLaunched Succes - 
+05.08.2025 14:35:18: Launched 
+05.08.2025 14:35:18: Killed Zaprets; 
+05.08.2025 14:35:18: OnLaunched Succes - 
+05.08.2025 14:42:18: Launched 
+05.08.2025 14:42:18: Killed Zaprets; 
+05.08.2025 14:42:18: OnLaunched Succes - 
+05.08.2025 14:42:44: Launched 
+05.08.2025 14:42:44: Killed Zaprets; 
+05.08.2025 14:42:44: OnLaunched Succes - 
+05.08.2025 14:43:16: Launched 
+05.08.2025 14:43:16: Killed Zaprets; 
+05.08.2025 14:43:17: OnLaunched Succes - 
+05.08.2025 14:44:41: Launched 
+05.08.2025 14:44:41: Killed Zaprets; 
+05.08.2025 14:44:42: OnLaunched Succes - 
+05.08.2025 14:47:11: Launched 
+05.08.2025 14:47:11: Killed Zaprets; 
+05.08.2025 14:47:11: OnLaunched Succes - 
+05.08.2025 14:49:01: Launched 
+05.08.2025 14:49:01: Killed Zaprets; 
+05.08.2025 14:49:01: OnLaunched Succes - 

@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "RMj5u0RR4hg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Egor\\source\\repos\\Eleanor\\Eleanor\\Eleanor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Egor\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.0\\communitytoolkit.mvvm.8.4.0.nupkg.sha512",
+    "C:\\Users\\Egor\\.nuget\\packages\\h.generatedicons.system.drawing\\2.3.0\\h.generatedicons.system.drawing.2.3.0.nupkg.sha512",
+    "C:\\Users\\Egor\\.nuget\\packages\\h.notifyicon\\2.3.0\\h.notifyicon.2.3.0.nupkg.sha512",
+    "C:\\Users\\Egor\\.nuget\\packages\\h.notifyicon.winui\\2.3.0\\h.notifyicon.winui.2.3.0.nupkg.sha512",
+    "C:\\Users\\Egor\\.nuget\\packages\\microsoft.web.webview2\\1.0.2903.40\\microsoft.web.webview2.1.0.2903.40.nupkg.sha512",
+    "C:\\Users\\Egor\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.1\\microsoft.win32.systemevents.9.0.1.nupkg.sha512",
+    "C:\\Users\\Egor\\.nuget\\packages\\microsoft.windows.sdk.buildtools\\10.0.26100.4188\\microsoft.windows.sdk.buildtools.10.0.26100.4188.nupkg.sha512",
+    "C:\\Users\\Egor\\.nuget\\packages\\microsoft.windowsappsdk\\1.7.250513003\\microsoft.windowsappsdk.1.7.250513003.nupkg.sha512",
+    "C:\\Users\\Egor\\.nuget\\packages\\system.collections.immutable\\9.0.1\\system.collections.immutable.9.0.1.nupkg.sha512",
+    "C:\\Users\\Egor\\.nuget\\packages\\system.drawing.common\\9.0.1\\system.drawing.common.9.0.1.nupkg.sha512",
+    "C:\\Users\\Egor\\.nuget\\packages\\system.reflection.metadata\\9.0.1\\system.reflection.metadata.9.0.1.nupkg.sha512",
+    "C:\\Users\\Egor\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\8.0.18\\microsoft.netcore.app.runtime.win-x86.8.0.18.nupkg.sha512",
+    "C:\\Users\\Egor\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.57\\microsoft.windows.sdk.net.ref.10.0.19041.57.nupkg.sha512",
+    "C:\\Users\\Egor\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\8.0.18\\microsoft.aspnetcore.app.runtime.win-x86.8.0.18.nupkg.sha512",
+    "C:\\Users\\Egor\\.nuget\\packages\\microsoft.netcore.app.runtime.win-arm64\\8.0.18\\microsoft.netcore.app.runtime.win-arm64.8.0.18.nupkg.sha512",
+    "C:\\Users\\Egor\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.18\\microsoft.aspnetcore.app.runtime.win-x64.8.0.18.nupkg.sha512",
+    "C:\\Users\\Egor\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-arm64\\8.0.18\\microsoft.windowsdesktop.app.runtime.win-arm64.8.0.18.nupkg.sha512",
+    "C:\\Users\\Egor\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.18\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.18.nupkg.sha512",
+    "C:\\Users\\Egor\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-arm64\\8.0.18\\microsoft.aspnetcore.app.runtime.win-arm64.8.0.18.nupkg.sha512",
+    "C:\\Users\\Egor\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.18\\microsoft.netcore.app.runtime.win-x64.8.0.18.nupkg.sha512",
+    "C:\\Users\\Egor\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\8.0.18\\microsoft.windowsdesktop.app.runtime.win-x86.8.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}

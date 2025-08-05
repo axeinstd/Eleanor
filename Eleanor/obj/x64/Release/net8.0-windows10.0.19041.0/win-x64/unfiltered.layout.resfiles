@@ -1,0 +1,51 @@
+Assets\eslo0.ico
+Assets\eslo0.png
+Assets\eslo0m.png
+Assets\Square44x44Logo.png
+Assets\zapret\zapret-winws\_CMD_ADMIN.cmd
+Assets\zapret\zapret-winws\cygwin1.dll
+Assets\zapret\zapret-winws\elevator.exe
+Assets\zapret\zapret-winws\files\autohostlist.txt
+Assets\zapret\zapret-winws\files\list-youtube.txt
+Assets\zapret\zapret-winws\files\quic_initial_www_google_com.bin
+Assets\zapret\zapret-winws\killall.exe
+Assets\zapret\zapret-winws\preset_russia.cmd
+Assets\zapret\zapret-winws\preset_russia_autohostlist.cmd
+Assets\zapret\zapret-winws\service_create.cmd
+Assets\zapret\zapret-winws\service_del.cmd
+Assets\zapret\zapret-winws\service_start.cmd
+Assets\zapret\zapret-winws\service_stop.cmd
+Assets\zapret\zapret-winws\task_create.cmd
+Assets\zapret\zapret-winws\task_remove.cmd
+Assets\zapret\zapret-winws\task_start.cmd
+Assets\zapret\zapret-winws\task_stop.cmd
+Assets\zapret\zapret-winws\WinDivert.dll
+Assets\zapret\zapret-winws\windivert_delete.cmd
+Assets\zapret\zapret-winws\WinDivert64.sys
+Assets\zapret\zapret-winws\winws.exe
+Assets\zapret\zapret-winws-ytds\bin\cygwin1.dll
+Assets\zapret\zapret-winws-ytds\bin\quic_initial_www_google_com.bin
+Assets\zapret\zapret-winws-ytds\bin\tls_clienthello_www_google_com.bin
+Assets\zapret\zapret-winws-ytds\bin\WinDivert.dll
+Assets\zapret\zapret-winws-ytds\bin\WinDivert64.sys
+Assets\zapret\zapret-winws-ytds\bin\winws.exe
+Assets\zapret\zapret-winws-ytds\general (ALT).bat
+Assets\zapret\zapret-winws-ytds\general (ALT2).bat
+Assets\zapret\zapret-winws-ytds\general (ALT3).bat
+Assets\zapret\zapret-winws-ytds\general (ALT4).bat
+Assets\zapret\zapret-winws-ytds\general (ALT5).bat
+Assets\zapret\zapret-winws-ytds\general (ALT6).bat
+Assets\zapret\zapret-winws-ytds\general (FAKE TLS ALT).bat
+Assets\zapret\zapret-winws-ytds\general (FAKE TLS AUTO ALT).bat
+Assets\zapret\zapret-winws-ytds\general (FAKE TLS AUTO ALT2) - Copy (2).bat
+Assets\zapret\zapret-winws-ytds\general (FAKE TLS AUTO ALT2).bat
+Assets\zapret\zapret-winws-ytds\general (FAKE TLS AUTO).bat
+Assets\zapret\zapret-winws-ytds\general (FAKE TLS).bat
+Assets\zapret\zapret-winws-ytds\general (МГТС).bat
+Assets\zapret\zapret-winws-ytds\general (МГТС2).bat
+Assets\zapret\zapret-winws-ytds\general.bat
+Assets\zapret\zapret-winws-ytds\lists\ipset-all.txt
+Assets\zapret\zapret-winws-ytds\lists\ipset-all.txt.backup
+Assets\zapret\zapret-winws-ytds\lists\list-all.txt
+Assets\zapret\zapret-winws-ytds\lists\list-general.txt
+Assets\zapret\zapret-winws-ytds\service.bat

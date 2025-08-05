@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Window
+    x:Class="Eleanor.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Eleanor"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    xmlns:tb="using:H.NotifyIcon"
+    
+    Title="Eleanor">
+
+    <Window.SystemBackdrop>
+        <DesktopAcrylicBackdrop/>
+    </Window.SystemBackdrop>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="30" />
+        </Grid.RowDefinitions>
+        
+        <TitleBar x:Name="TitleBar" Title="Eleanor" Subtitle="by axeinstd">
+            <TitleBar.IconSource>
+                <ImageIconSource x:Name="AppIcon"
+                    ImageSource="ms-appx:///Assets/eslo0.png" />
+            </TitleBar.IconSource>
+        </TitleBar>
+
+        <StackPanel Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="0"
+x:Name="WelcomeText" FontSize="30" FontWeight="Bold">Welcome to Eleanor</TextBlock>
+            <Rectangle Height="10"></Rectangle>
+            <ToggleButton VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="1"
+        x:Name="ToggleBtn" Click="ToggleBtn_Click">Disconnected</ToggleButton>
+            <Rectangle Height="20"></Rectangle>
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center">
+                <Button x:Name="GTTButton" Click="HideToTray">Go To Tray</Button>
+                <Rectangle Width="10" />
+                <Button x:Name="AboutButton" Click="ShowAboutWindow">About Eleanor</Button>
+            </StackPanel>
+        </StackPanel>
+
+        <TextBlock Grid.Row="2" HorizontalAlignment="Center">version 0.1beta</TextBlock>
+        
+        <tb:TaskbarIcon 
+            x:Name="trayIcon"
+            ContextMenuMode="SecondWindow"
+            LeftClickCommand="{x:Bind ShowHideWindowCommand}"
+            IconSource="ms-appx:///Assets/eslo0.ico"
+            NoLeftClickDelay="True"
+            >
+
+            <tb:TaskbarIcon.ContextFlyout>
+                <MenuFlyout AreOpenCloseAnimationsEnabled="False">
+                    <MenuFlyoutItem
+                        x:Name="TrayState"
+                        Text="Disconnected"
+                        Command="{x:Bind ConnectDisconnectCommand}"
+                    />
+                    <MenuFlyoutItem
+                        Text="Show/Hide Window"
+                        Command="{x:Bind ShowHideWindowCommand}"
+                    />
+                    <MenuFlyoutSeparator />
+                    <MenuFlyoutItem
+                        Command="{x:Bind ExitApplicationCommand}"
+                        Text="Exit"
+                    />
+                </MenuFlyout>
+            </tb:TaskbarIcon.ContextFlyout>
+        </tb:TaskbarIcon>
+    </Grid>
+</Window>

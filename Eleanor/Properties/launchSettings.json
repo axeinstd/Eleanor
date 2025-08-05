@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Eleanor (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Eleanor (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

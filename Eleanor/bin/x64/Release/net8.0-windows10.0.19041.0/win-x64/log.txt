@@ -1,0 +1,72 @@
+01.06.2025 13:36:36: Launched 
+01.06.2025 13:36:36: Killed Zaprets; 
+01.06.2025 13:36:36: OnLaunched Succes - 
+01.06.2025 13:51:54: Launched 
+01.06.2025 13:51:54: Killed Zaprets; 
+01.06.2025 13:51:54: Error in OnLaunched - System.IO.FileNotFoundException: Could not find file 'C:\Users\Egor\source\repos\Eleanor\Eleanor\bin\x64\Release\net8.0-windows10.0.19041.0\win-x64\Assets\Square44x44Logo.scale-200.ico'.
+File name: 'C:\Users\Egor\source\repos\Eleanor\Eleanor\bin\x64\Release\net8.0-windows10.0.19041.0\win-x64\Assets\Square44x44Logo.scale-200.ico'
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.Drawing.Icon..ctor(String fileName, Int32 width, Int32 height)
+   at System.Drawing.Icon..ctor(String fileName)
+   at Eleanor.MainWindow..ctor(Process& process) in C:\Users\Egor\source\repos\Eleanor\Eleanor\MainWindow.xaml.cs:line 57
+   at Eleanor.App.OnLaunched(LaunchActivatedEventArgs args) in C:\Users\Egor\source\repos\Eleanor\Eleanor\App.xaml.cs:line 50
+01.06.2025 13:52:03: Launched 
+01.06.2025 13:52:03: Killed Zaprets; 
+01.06.2025 13:52:03: Error in OnLaunched - System.IO.FileNotFoundException: Could not find file 'C:\Users\Egor\source\repos\Eleanor\Eleanor\bin\x64\Release\net8.0-windows10.0.19041.0\win-x64\Assets\Square44x44Logo.scale-200.ico'.
+File name: 'C:\Users\Egor\source\repos\Eleanor\Eleanor\bin\x64\Release\net8.0-windows10.0.19041.0\win-x64\Assets\Square44x44Logo.scale-200.ico'
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.Drawing.Icon..ctor(String fileName, Int32 width, Int32 height)
+   at System.Drawing.Icon..ctor(String fileName)
+   at Eleanor.MainWindow..ctor(Process& process) in C:\Users\Egor\source\repos\Eleanor\Eleanor\MainWindow.xaml.cs:line 57
+   at Eleanor.App.OnLaunched(LaunchActivatedEventArgs args) in C:\Users\Egor\source\repos\Eleanor\Eleanor\App.xaml.cs:line 50
+01.06.2025 13:52:40: Launched 
+01.06.2025 13:52:40: Killed Zaprets; 
+01.06.2025 13:52:40: OnLaunched Succes - 
+01.06.2025 14:33:28: Launched 
+01.06.2025 14:33:28: Killed Zaprets; 
+01.06.2025 14:33:29: OnLaunched Succes - 
+01.06.2025 14:34:05: Launched 
+01.06.2025 14:34:05: Killed: winws 
+01.06.2025 14:34:05: Killed Zaprets; 
+01.06.2025 14:34:05: OnLaunched Succes - 
+01.06.2025 14:39:32: Launched 
+01.06.2025 14:39:32: Killed Zaprets; 
+01.06.2025 14:39:32: OnLaunched Succes - 
+01.06.2025 14:40:07: Launched 
+01.06.2025 14:40:07: Killed Zaprets; 
+01.06.2025 14:40:07: OnLaunched Succes - 
+01.06.2025 14:40:46: Launched 
+01.06.2025 14:40:46: Killed Zaprets; 
+01.06.2025 14:40:46: OnLaunched Succes - 
+01.06.2025 14:45:18: Launched 
+01.06.2025 14:45:18: Killed Zaprets; 
+01.06.2025 14:45:19: OnLaunched Succes - 
+01.06.2025 14:47:28: Launched 
+01.06.2025 14:47:28: Killed Zaprets; 
+01.06.2025 14:47:28: OnLaunched Succes - 
+01.06.2025 14:47:36: Launched 
+01.06.2025 14:47:36: Killed Zaprets; 
+01.06.2025 14:47:36: OnLaunched Succes - 
+01.06.2025 14:50:28: Launched 
+01.06.2025 14:50:28: Killed Zaprets; 
+01.06.2025 14:50:28: OnLaunched Succes - 
+01.06.2025 15:22:20: Launched 
+01.06.2025 15:22:20: Killed Zaprets; 
+01.06.2025 15:22:20: OnLaunched Succes - 
+01.06.2025 17:35:39: Launched 
+01.06.2025 17:35:39: Killed Zaprets; 
+01.06.2025 17:35:39: OnLaunched Succes - 
+01.06.2025 17:35:59: Launched 
+01.06.2025 17:35:59: Killed Zaprets; 
+01.06.2025 17:35:59: OnLaunched Succes - 
+01.06.2025 17:37:20: Launched 
+01.06.2025 17:37:20: Killed Zaprets; 
+01.06.2025 17:37:20: OnLaunched Succes - 
