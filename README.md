@@ -5,5 +5,3 @@ Modern GUI for Zapret (bol-van), written in native WINUI3
 
 
 ## README WILL BE IN THE FUTURE, AS WELL AS SOURCE CODE
-
-t8hft1a2rzb9czhg
