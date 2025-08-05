@@ -1,4 +1,4 @@
-# Eleanor - простой графический интерфейс для Zapret
+# Eleanor - простой и понятный графический интерфейс для Zapret
 [README on English](/README.md)
 
 ![preview](/GITHUB_ASSETS/preview.png)
